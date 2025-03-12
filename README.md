@@ -1,8 +1,9 @@
 ## Hi there 👋
 
+🎉 I have accepted my offer to pursue a PhD in ECE at NCSU under the guidance of Dr. Hamid Krim!
+
 This is Beilong Tang, a senior undergraduate at Duke Kunshan University. 
-- 🔭 I’m currently working on Using Large Language Models (LLMs) to conduct Speech Separation and Enhancement.
-- 👯 I’m looking for PhD Opportnunites related to speech processing, Deep Learning, LLMs, IoT, and Federated Learning.
+- 🔭 I’m currently working on Using Large Language Models (LLMs) to conduct Target Speaker Extraction.
 - 📫 Feel free to ask me anything via  [email](mailto:bt132@duke.edu).
 
 For more information, please visit my personal [blog](https://beilong-tang.github.io/).

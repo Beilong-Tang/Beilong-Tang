@@ -4,6 +4,6 @@
 
 This is Beilong Tang, a senior undergraduate at Duke Kunshan University. 
 - 🔭 I’m currently working on Using Large Language Models (LLMs) to conduct Target Speaker Extraction.
-- 📫 Feel free to ask me anything via  [email](btang5@ncsu.edu).
+- 📫 Feel free to ask me anything via  [email](mailto:btang5@ncsu.edu).
 
 For more information, please visit my personal [blog](https://beilong-tang.github.io/).

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎉 I am a first-year PhD student in ECE at NCSU under the guidance of Dr. Hamid Krim!
+🎉 I am a first-year PhD student in ECE at NCSU under the supervision of Dr. Hamid Krim!
 
 I have just graduated from Duke Kunshan University.
 - 💻 I am currently working on diffusion models.
